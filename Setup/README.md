@@ -7,5 +7,6 @@ Adjunto enlace para su descarga.
 
 
 
-![.Netcore](Setup\imagenesmd\Capturanet.png)
+![captura.png](/Setup\imagenesmd\Captura.PNG)
+
 
