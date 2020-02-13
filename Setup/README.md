@@ -7,6 +7,6 @@ Adjunto enlace para su descarga.
 
 
 
-![captura.png](/Setup\imagenesmd\Captura.PNG)
+![Netcore](/Setup\imagenesmd\Captura.PNG "Imagen Netcore")
 
 
