@@ -7,6 +7,6 @@ Adjunto enlace para su descarga.
 
 
 
-![Netcore](/Setup\imagenesmd\Captura.PNG "Imagen Netcore")
+![Netcore](https://scontent.ftij3-1.fna.fbcdn.net/v/t1.15752-9/83285813_506064430096807_8330413044270104576_n.png?_nc_cat=103&_nc_ohc=KWX1bxVq-lwAX_Z46ye&_nc_ht=scontent.ftij3-1.fna&oh=631f56470b4d8ee98467be4c47c1f2fe&oe=5EC321E2S)
 
 
