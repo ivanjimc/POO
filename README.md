@@ -1,4 +1,4 @@
-# Programacion-O
+# Programacion
 ## Clase de Programacion Orinetada a Objetos
 
 ---
